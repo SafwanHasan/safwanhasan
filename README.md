@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently studying at Toronto Metropolitan University as a MASc student. 
+- 🔭 I’m currently studying at Toronto Metropolitan University as a MASc student. Focus: ML, AI, LLMs, NLP and computer vision. 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/safwan-hasan/)
 - 😄 Pronouns: He/Him
 
