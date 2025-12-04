@@ -4,13 +4,13 @@ I'm **Safwan Hasan**, a MASc student at **Toronto Metropolitan University** work
 
 - **Machine Learning & Deep Learning**
 - **Software Engineering**
-- **Embedded Systems & Hardware-Accelerated Computing**
 - **Large Language Models (LLMs)**
 - **Natural Language Processing (NLP)**
 - **Computer Vision & Generative AI**
+- **Embedded Systems & Hardware-Accelerated Computing**
 
 
-I enjoy building end-to-end systems — from CUDA-accelerated image processing pipelines and LLM-powered facial animation models, to embedded applications running on microcontrollers and SoCs.
+I enjoy building various end-to-end systems: from backend & full-stack apps, to processing pipelines and LLM-powered models, to embedded applications running on microcontrollers and SoCs.
 
 ---
 
